@@ -14,5 +14,4 @@
 
 ### ⚙Support
 
-```
-[Discord Server] (https://discord.gg/rvtsXKuf2P)
+[Discord Server](https://discord.gg/rvtsXKuf2P)
