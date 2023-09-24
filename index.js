@@ -43,7 +43,7 @@ fs.readdir("./commands/", (_err, files) => {
 });
 
 // Login through the client
-client.login("MTE1MjU0NTYyMzQwNTUxNDgxMg.GchEIs.0mezWiO43F93JNM0Wh7jpulCfF0QGVub0q9AMo");// token bot
+client.login("");// token bot
 
 const keepAlive = require("./server");
 
