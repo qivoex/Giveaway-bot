@@ -11,3 +11,8 @@
 - cd Giveaway
 - node index.js
 ```
+
+### ⚙Support
+
+```
+[Discord Server] (https://discord.gg/rvtsXKuf2P)
