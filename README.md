@@ -1,5 +1,9 @@
 # Giveaway-bot
 
+## Info
+
+- **Discord bot Giveaway you can make giveaway for your members and let them win.**
+
 ### 🛠 Setup
 
 ```
